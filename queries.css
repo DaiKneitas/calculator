@@ -1,0 +1,35 @@
+@media (max-width: 240em) {
+  html {
+    font-size: 100%;
+  }
+}
+
+@media (max-width: 160em) {
+  html {
+    font-size: 87.5%;
+  }
+}
+
+@media (max-width: 120em) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media (max-width: 100em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 80em) {
+  html {
+    font-size: 43.75%;
+  }
+}
+
+@media (max-width: 21.875em) {
+  html {
+    font-size: 37.5%;
+  }
+}
